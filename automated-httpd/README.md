@@ -1,0 +1,1 @@
+Automates the creation of a centos virtual machine (via virtualbox) with a static private IP, and then installs httpd and adds a simple Hello World html page.
