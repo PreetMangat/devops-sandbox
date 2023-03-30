@@ -1,0 +1,1 @@
+Automates the creation of an httpd web server, using terraform and aws to provision an ec2 instance running on linux with httpd installed and running on it. 
