@@ -1,0 +1,1 @@
+docker-compose implementation of docker's example voting app
