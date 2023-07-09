@@ -1,0 +1,1 @@
+A simple kubernetes cluster that creates a mongodb pod and a mongoexpress pod. Services are used to forward network traffic between the cluster. Configmaps and Secrets are used as well.
